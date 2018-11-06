@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Licznik psów</string>
+    <string name="text_view">Liczba naliczonych psów:</string>
+    <string name="add_button">Dodaj psa</string>
+    <string name="reset_button">Wyczyść</string>
+
+</resources>

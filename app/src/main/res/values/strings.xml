@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DogCounter</string>
+    <string name="text_view">Number of dogs counted:</string>
+    <string name="add_button">Add Dog</string>
+    <string name="reset_button">Reset</string>
+
+</resources>
